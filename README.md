@@ -1,7 +1,3 @@
-当然可以！下面是**中英文双语版本的 GitHub README 模板**，保留了动态视觉效果（如徽章、GIF、图标等），并使用清晰的排版结构，适合展示你的技术栈和个人信息。
-
----
-
 # 🌟 cypher's GitHub Profile
 
 <div align="center">
