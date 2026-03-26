@@ -181,11 +181,25 @@ class Cypher:
 
 ### 🛠️ AI Tools & Platforms
 
-**Workflow & Orchestration**
-![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=for-the-badge)
-![Dify](https://img.shields.io/badge/Dify-1E3A8A?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![RAGFlow](https://img.shields.io/badge/RAGFlow-FF6B35?style=for-the-badge)
+**RAG & Knowledge Base Workflow**
+
+| Component | Tools |
+|-----------|-------|
+| **Embedding Models** | BGE, M3E, GTE, OpenAI Embedding |
+| **Chat Models** | DeepSeek, Qwen, Kimi, ChatGPT |
+| **Reranker** | BGE-Reranker, Cohere Rerank |
+| **Frameworks** | ![RAGFlow](https://img.shields.io/badge/RAGFlow-FF6B35?style=flat-square) ![Dify](https://img.shields.io/badge/Dify-1E3A8A?style=flat-square) ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square) |
+| **Vector DB** | Milvus, Qdrant, Chroma, PGVector |
+
+**Image & Video Workflow**
+
+| Capability | Models & Tools |
+|-----------|----------------|
+| **Text-to-Image** | z-image-turbo, Qwen-Image, FLUX |
+| **Image-to-Image** | Qwen-Image-Edit, SDXL, ComfyUI |
+| **Video Generation** | LTX-2.5, Wan2.1/2.6, CogVideo |
+| **Image Remix** | Remix (Adobe), Midjourney, Ideogram |
+| **Workflow Engine** | ![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=flat-square) |
 
 **Cloud Platforms (Expert Level)**
 ![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge)
