@@ -305,7 +305,7 @@ class Cypher:
 
 **"Code is art, engineering is creation."** 🌈
 
-<!-- 访问计数器 -->
-![Visitor Count](https://profile-counter.glitch.me/1193700079/count.svg)
+<!-- 访问计数器 - 使用 hits.sh -->
+![Visitor Count](https://hits.sh/github.com/1193700079/1193700079.svg?style=flat-square&color=00D4AA&label=Visitors)
 
 </div>
