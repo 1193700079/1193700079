@@ -211,30 +211,22 @@ class Cypher:
 
 ## 🔬 Multi-Modal AI (I2V / V2V / A2V)
 
-<table>
-<tr>
-<td>
+**Video Generation Models**
 
-**Image/Video Generation**
-| Algorithm | Type | Description |
-|-----------|------|-------------|
-| **I2V** | Image-to-Video | Static image animation |
-| **FL2V** | Flow-to-Video | Optical flow guided generation |
-| **A2V** | Audio-to-Video | Speech/lip-sync generation |
-| **T2V** | Text-to-Video | Prompt-based generation |
-
-</td>
-<td>
+| Category | Models | Description |
+|----------|--------|-------------|
+| **首尾帧视频模型** | Wan2.1, Wan2.6, Wan2.7 | 输入首帧+尾帧生成中间视频 |
+| **参考图视频模型** | LTX-2.5, CogVideo, Sora | 单图参考生成视频 |
+| **文生视频** | Wan, Sora, CogVideo, LTX | Text-to-Video |
+| **图生视频** | Wan-I2V, CogVideo-I2V | Image-to-Video |
+| **音频驱动视频** | Wan-A2V, EMO, V-Express | Audio-to-Video (对口型) |
 
 **Audio Processing**
-| Algorithm | Type | Description |
-|-----------|------|-------------|
-| **ASR** | Speech Recognition | Whisper, FunASR, Paraformer |
-| **TTS** | Text-to-Speech | CosyVoice, GPT-SoVITS, FishSpeech |
 
-</td>
-</tr>
-</table>
+| Category | Models | Description |
+|----------|--------|-------------|
+| **ASR 语音识别** | Whisper, FunASR, Paraformer, **ElevenLabs** | 语音转文字 |
+| **TTS 语音合成** | CosyVoice, GPT-SoVITS, FishSpeech, **IndexTTS**, **Qwen-TTS**, **FishS2Pro** | 文字转语音 |
 
 ---
 
