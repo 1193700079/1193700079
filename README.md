@@ -83,9 +83,9 @@ class Cypher:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/robot.svg" width="28" height="28" /> LLM / VLM Ecosystem
+## 🤖 LLM / VLM Ecosystem
 
-### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/rocket.svg" width="22" height="22" /> Inference & Deployment
+### 🚀 Inference & Deployment
 
 **Serving Frameworks** (部署框架)
 
@@ -123,7 +123,7 @@ class Cypher:
 | ![PageAttention](https://img.shields.io/badge/PageAttention-4ECDC4?style=flat-square) | Paged KV cache (vLLM core) |
 | ![Speculative Decoding](https://img.shields.io/badge/Speculative_Decoding-9B59B6?style=flat-square) | Draft-then-verify acceleration |
 
-### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/brain.svg" width="22" height="22" /> Model Expertise
+### 🧠 Model Expertise
 
 **Large Language Models**
 
@@ -238,7 +238,7 @@ class Cypher:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/chart-bar.svg" width="28" height="28" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -278,11 +278,11 @@ class Cypher:
 ## 📝 Latest Updates
 
 <!-- BLOG-POST-LIST:START -->
-- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/fire.svg" width="16" height="16" /> Building multi-modal AI systems with I2V/V2V/A2V pipelines
-- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/bolt.svg" width="16" height="16" /> Optimizing LLM inference with SageAttention & vLLM
-- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/cpu-chip.svg" width="16" height="16" /> Developing ROS2-based robotics applications
-- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/cloud.svg" width="16" height="16" /> Deep dive into 阿里云百炼 platform capabilities
-- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/code.svg" width="16" height="16" /> Exploring Rust for high-performance AI serving
+- 🔥 Building multi-modal AI systems with I2V/V2V/A2V pipelines
+- ⚡ Optimizing LLM inference with SageAttention & vLLM
+- 🤖 Developing ROS2-based robotics applications
+- ☁️ Deep dive into 阿里云百炼 platform capabilities
+- 🦀 Exploring Rust for high-performance AI serving
 <!-- BLOG-POST-LIST:END -->
 
 ---
