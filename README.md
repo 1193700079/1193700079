@@ -209,7 +209,7 @@ class Cypher:
 | Capability | Models & Tools |
 |-----------|----------------|
 | **Text-to-Image** | z-image-turbo, Qwen-Image, FLUX, Stable Diffusion 3, Midjourney |
-| **Image-to-Image** | Qwen-Image-Edit, SDXL, Stable Diffusion 1.5, ComfyUI |
+| **Image-to-Image** | Qwen-Image-Edit, SDXL, Stable Diffusion 1.5 |
 | **Video Generation** | Wan2.1, CogVideoX, LTX-Video, Sora |
 | **Image Remix** | Remix (Adobe), Midjourney, Ideogram |
 | **Workflow Engine** | ![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=flat-square) |
@@ -228,11 +228,11 @@ class Cypher:
 
 | Category | Models | Description |
 |----------|--------|-------------|
-| **首尾帧视频模型** | Wan2.1-FLF2V-14B | 输入首帧+尾帧生成中间视频 (阿里) |
+| **首尾帧视频模型** | Wan2.1-FLF2V-14B, Wan2.2, Wan2.5, Wan2.6 | 输入首帧+尾帧生成中间视频 (阿里) |
 | **参考图视频模型** | LTX-Video, CogVideoX, Sora | 单图参考生成视频 |
-| **文生视频** | Wan2.1-T2V, Sora, CogVideoX, LTX-Video | Text-to-Video |
-| **图生视频** | Wan2.1-I2V, CogVideoX-I2V | Image-to-Video |
-| **音频驱动视频** | Wan2.1-A2V, EMO, V-Express | Audio-to-Video (对口型) |
+| **文生视频** | Wan2.1-T2V, Wan2.2, Wan2.5, Wan2.6, Sora, CogVideoX, LTX-Video | Text-to-Video |
+| **图生视频** | Wan2.1-I2V, Wan2.2, Wan2.5, Wan2.6, CogVideoX-I2V | Image-to-Video |
+| **音频驱动视频** | Wan2.1-A2V, Wan2.2, Wan2.5, Wan2.6, EMO, V-Express | Audio-to-Video (对口型) |
 
 **Audio Processing**
 
