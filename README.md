@@ -1,123 +1,311 @@
-# 🌟 cypher's GitHub Profile
-
 <div align="center">
-  <h1>👋 I'm cypher</h1>
-  <p><strong>Technology Enthusiast | Explorer of Programming and Algorithms</strong></p>
 
-  <img src="https://media.giphy.com/media/your-gif-link.gif" width="400" />
-  
-  <br/>
-  
-  <a href="https://github.com/cypher"><img src="https://img.shields.io/github/followers/cypher?label=Follow&style=social"/></a>
-  <a href="https://twitter.com/cypher"><img src="https://img.shields.io/twitter/follow/cypher?style=social"/></a>
+<!-- 动态打字效果标题 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+cypher;Full-Stack+AI+Engineer;LLM+%26+VLM+Optimization+Expert;Robotics+%26+Edge+AI+Developer)](https://git.io/typing-svg)
+
+<!-- 动态横幅图 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0099CC,100:7B2D8E&height=200&section=header&text=cypher&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Robotics%20%7C%20Cloud%20Native&descAlignY=55&descSize=18"/>
+
+<!-- 社交徽章 -->
+[![GitHub](https://img.shields.io/badge/GitHub-1193700079-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1193700079)
+[![Email](https://img.shields.io/badge/Email-yrq991121%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrq991121@gmail.com)
+
 </div>
 
 ---
 
-## 📝 简介 / Introduction
+## 🎯 About Me
 
-### 中文
-我是 **cypher**，一位热爱编程与算法的技术探索者。擅长后端开发、模型推理优化以及大语言模型应用开发。
+<table>
+<tr>
+<td width="55%">
 
-### English
-I'm **cypher**, a technology enthusiast passionate about programming and algorithms. Skilled in backend development, model inference optimization, and LLM-based application development.
-
----
-
-## 💻 编程语言 / Programming Languages
-
-```text
-Java 🔥 | Python 🐍 | C++ 🧠
+```python
+class Cypher:
+    def __init__(self):
+        self.name = "cypher"
+        self.role = "Full-Stack AI Engineer"
+        self.location = "🌏 China"
+        self.expertise = [
+            "LLM/VLM Inference Optimization",
+            "Robotics & ROS2",
+            "Edge AI & Embedded",
+            "Multi-Modal AI (I2V/V2V/A2V)"
+        ]
+    
+    def current_focus(self):
+        return "Building production-grade AI systems"
+    
+    def cloud_platforms(self):
+        return ["阿里云/Aliyun", "Azure", "AWS"]
+    
+    def motto(self):
+        return "Code is art, engineering is creation"
 ```
 
----
+</td>
+<td width="45%">
 
-## 🤖 主要研究方向 / Research Interests
+<!-- 技能图标矩阵 -->
+**Languages & Frameworks**
 
-- 计算机视觉 (CV) / Computer Vision (CV)
-- 大语言模型 (LLM) 及其优化 / Large Language Models (LLMs) and Optimization
+<img src="https://skillicons.dev/icons?i=rust,python,java,go,cpp,js,ts,react,vue,spring,tensorflow,pytorch,docker,kubernetes,linux,git,raspberrypi,ros&theme=dark&perline=6" />
 
----
-
-## 🚀 推理加速（传统模型）/ Inference Acceleration (Traditional Models)
-
-| 工具 / Tool      | 描述 / Description                          |
-|------------------|---------------------------------------------|
-| TensorRT         | NVIDIA 高性能推理引擎 / High-performance inference engine by NVIDIA |
-| OpenVINO         | Intel 视觉推理工具包 / Intel's vision inference toolkit |
-| ONNX Runtime     | 跨平台通用推理框架 / Cross-platform inference framework |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 推理加速（大模型方向）/ Inference Acceleration (LLM Direction)
+## 🛠️ Tech Stack
 
-| 工具 / Tool      | 描述 / Description                          |
-|------------------|---------------------------------------------|
-| vLLM             | 大语言模型高效推理框架 / Efficient LLM inference framework |
-| DeepSpeed        | 微软推出的深度学习优化库 / Microsoft's deep learning optimization library |
-| SG / Other       | 其他轻量级推理方案 / Lightweight inference solutions |
+### 💻 Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+### 🏗️ Backend & Infrastructure
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Actix-web](https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🛠️ 大模型应用开发 / LLM Application Development
-
-| 工具 / Tool      | 描述 / Description                          |
-|------------------|---------------------------------------------|
-| Dify             | 开源的大模型应用开发平台 / Open-source LLM app platform |
-| RAGFlow          | 基于 RAG 的文档处理系统 / Document processing with RAG |
-| LangChain        | 构建 LLM 应用的强大工具链 / Powerful toolchain for LLM apps |
-
----
-
-## 🏗️ 后端开发 / Backend Development
-
-```text
-Spring Boot 🌿 | FastAPI 🚀 | Flask 🍃
-```
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Bits](https://img.shields.io/badge/React_Bits-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ---
 
-## 🎨 前端开发 / Frontend Development
+## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/robot.svg" width="28" height="28" /> LLM / VLM Ecosystem
 
-```text
-Vue.js 🖼️ | React ⚛️
-```
+### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/rocket.svg" width="22" height="22" /> Inference & Deployment
+
+**Serving Frameworks** (部署框架)
+
+| Framework | Description |
+|-----------|-------------|
+| ![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square) | High-throughput LLM serving with PagedAttention |
+| ![SGLang](https://img.shields.io/badge/SGLang-00D4AA?style=flat-square) | Structured generation & multi-modal serving |
+| ![TensorRT--LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=flat-square&logo=nvidia&logoColor=white) | NVIDIA optimized inference engine |
+| ![TGI](https://img.shields.io/badge/TGI-FFBD39?style=flat-square&logo=huggingface&logoColor=black) | HuggingFace text generation inference |
+| ![vLLM Omni](https://img.shields.io/badge/vLLM_Omni-9B59B6?style=flat-square) | Multi-modal (vision+audio) serving |
+
+**Training & Fine-tuning Frameworks** (微调框架)
+
+| Framework | Description |
+|-----------|-------------|
+| ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0089D6?style=flat-square&logo=microsoft&logoColor=white) | ZeRO optimization, model parallelism |
+| ![FSDP](https://img.shields.io/badge/FSDP-FF6B6B?style=flat-square&logo=pytorch&logoColor=white) | PyTorch distributed training |
+| ![LLaMA--Factory](https://img.shields.io/badge/LLaMA--Factory-00D4AA?style=flat-square) | Unified LLM fine-tuning framework |
+| ![AI--Tools](https://img.shields.io/badge/AI_Tools-FF6B6B?style=flat-square) | ComfyUI-based training toolkit |
+
+**Fine-tuning Techniques** (微调技术)
+
+| Technique | Description |
+|-----------|-------------|
+| ![LoRA](https://img.shields.io/badge/LoRA-00D4AA?style=flat-square) | Low-Rank Adaptation (parameter-efficient) |
+| ![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=flat-square) | Quantized LoRA (4-bit) |
+| ![Full--Finetune](https://img.shields.io/badge/Full_Finetune-FF9500?style=flat-square) | Full parameter fine-tuning |
+
+**Kernel & Attention Optimization** (加速算法)
+
+| Technique | Description |
+|-----------|-------------|
+| ![FlashAttention](https://img.shields.io/badge/FlashAttention-FF6B6B?style=flat-square) | IO-aware attention compute |
+| ![SageAttention](https://img.shields.io/badge/SageAttention-FF9500?style=flat-square) | Memory-efficient attention kernel |
+| ![PageAttention](https://img.shields.io/badge/PageAttention-4ECDC4?style=flat-square) | Paged KV cache (vLLM core) |
+| ![Speculative Decoding](https://img.shields.io/badge/Speculative_Decoding-9B59B6?style=flat-square) | Draft-then-verify acceleration |
+
+### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/brain.svg" width="22" height="22" /> Model Expertise
+
+**Large Language Models**
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" />
+<br/><sub>DeepSeek</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/kimi.svg" width="48" height="48" alt="Kimi" />
+<br/><sub>Kimi</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/chatglm.svg" width="48" height="48" alt="ChatGLM" />
+<br/><sub>ChatGLM</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/qwen.svg" width="48" height="48" alt="Qwen" />
+<br/><sub>Qwen</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
+<br/><sub>ChatGPT</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude.svg" width="48" height="48" alt="Claude" />
+<br/><sub>Claude</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="48" height="48" alt="Gemini" />
+<br/><sub>Gemini</sub>
+</td>
+</tr>
+</table>
+
+*其他: MiniCPM, Wan 等*
+
+**Multi-Modal & Video Models**
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cogvideo.svg" width="48" height="48" alt="CogVideo" />
+<br/><sub>CogVideo</sub>
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/sora.svg" width="48" height="48" alt="Sora" />
+<br/><sub>Sora</sub>
+</td>
+</tr>
+</table>
+
+*其他: Wan2.2 / 2.6 / 2.7 (NSFW), FL2V, A2V, I2V 等*
+
+### 🛠️ AI Tools & Platforms
+
+**Workflow & Orchestration**
+![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=for-the-badge)
+![Dify](https://img.shields.io/badge/Dify-1E3A8A?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![RAGFlow](https://img.shields.io/badge/RAGFlow-FF6B35?style=for-the-badge)
+
+**Cloud Platforms (Expert Level)**
+![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge)
+![阿里云百炼](https://img.shields.io/badge/阿里云百炼-FF9500?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-## 📈 最新动态 / Recent Updates
+## 🔬 Multi-Modal AI (I2V / V2V / A2V)
 
-```text
-[Building a local QA system using LangChain + VLLM]
-```
+<table>
+<tr>
+<td>
+
+**Image/Video Generation**
+| Algorithm | Type | Description |
+|-----------|------|-------------|
+| **I2V** | Image-to-Video | Static image animation |
+| **FL2V** | Flow-to-Video | Optical flow guided generation |
+| **A2V** | Audio-to-Video | Speech/lip-sync generation |
+| **T2V** | Text-to-Video | Prompt-based generation |
+
+</td>
+<td>
+
+**Audio Processing**
+| Algorithm | Type | Description |
+|-----------|------|-------------|
+| **ASR** | Speech Recognition | Whisper, FunASR, Paraformer |
+| **TTS** | Text-to-Speech | CosyVoice, GPT-SoVITS, FishSpeech |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Robotics & Edge AI
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Edge Deployment Stack**
+- **ROS2 Humble/Iron** - Robot Operating System
+- **Micro-ROS** - Embedded ROS for microcontrollers
+- **TensorRT** - Edge inference optimization
+- **ONNX Runtime** - Cross-platform deployment
 
 ---
 
-## 📬 联系我 / Contact Me
+## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/solid/chart-bar.svg" width="28" height="28" /> GitHub Stats
 
-如果你对我的项目感兴趣，欢迎联系我：
+<div align="center">
 
-If you're interested in my projects, feel free to reach out:
+<!-- 3D 贡献图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1193700079&theme=react-dark&hide_border=true&area=true&color=00D4AA&line=0099CC&point=FFFFFF" width="95%"/>
 
-📧 Email: your@email.com  
-🐦 Twitter: [@cypher](https://twitter.com/cypher)  
-💻 GitHub: [github.com/cypher](https://github.com/cypher)
+<br/><br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=1193700079&show_icons=true&theme=transparent&hide_border=true&title_color=00D4AA&icon_color=0099CC&text_color=FFFFFF&bg_color=0D1117" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1193700079&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=FFFFFF&bg_color=0D1117" />
+</td>
+</tr>
+</table>
+
+<!-- 连续贡献记录 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1193700079&theme=transparent&hide_border=true&stroke=00D4AA&ring=0099CC&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00D4AA&sideNums=0099CC" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1193700079&repo=1193700079&theme=transparent&hide_border=true&title_color=00D4AA&icon_color=0099CC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/1193700079/1193700079)
+
+</div>
 
 ---
 
-> 🌈 “代码即艺术，工程即创造。” —— cypher  
-> "Code is art, engineering is creation." —— cypher
+## 📝 Latest Updates
+
+<!-- BLOG-POST-LIST:START -->
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/fire.svg" width="16" height="16" /> Building multi-modal AI systems with I2V/V2V/A2V pipelines
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/bolt.svg" width="16" height="16" /> Optimizing LLM inference with SageAttention & vLLM
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/cpu-chip.svg" width="16" height="16" /> Developing ROS2-based robotics applications
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/cloud.svg" width="16" height="16" /> Deep dive into 阿里云百炼 platform capabilities
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/20/solid/code.svg" width="16" height="16" /> Exploring Rust for high-performance AI serving
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 📷 附加动态效果推荐（可选）/ Optional Dynamic Elements
+## 🌐 Connect With Me
 
-你可以添加一些个人主页或项目的动态图（比如训练过程、界面演示等），例如：
+<div align="center">
 
-```markdown
-![Demo](demo.gif)
-```
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1193700079)
+[![Email](https://img.shields.io/badge/-Email-yrq991121%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrq991121@gmail.com)
 
-或者插入一个自动更新的技能雷达图（使用 [SkillSpree](https://skills.thedev.id/) 或 [Animoji Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 类插件生成 SVG 动态图）。
+</div>
 
 ---
+
+<div align="center">
+
+<!-- 页脚波浪 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0099CC,100:7B2D8E&height=100&section=footer&animation=fadeIn"/>
+
+**"Code is art, engineering is creation."** 🌈
+
+<!-- 访问计数器 -->
+![Visitor Count](https://profile-counter.glitch.me/1193700079/count.svg)
+
+</div>
