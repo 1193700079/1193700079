@@ -208,10 +208,9 @@ class Cypher:
 
 | Capability | Models & Tools |
 |-----------|----------------|
-| **Text-to-Image** | z-image-turbo, Qwen-Image, FLUX |
-| **Image-to-Image** | Qwen-Image-Edit, SDXL, ComfyUI |
-| **Video Generation** | LTX-2.5, Wan2.1/2.6, CogVideo |
-| **Image Remix** | Remix (Adobe), Midjourney, Ideogram |
+| **Text-to-Image** | FLUX, Stable Diffusion 3, Midjourney, Ideogram |
+| **Image-to-Image** | SDXL, Stable Diffusion 1.5, ComfyUI |
+| **Video Generation** | Wan2.1, CogVideoX, LTX-Video, Sora |
 | **Workflow Engine** | ![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=flat-square) |
 
 **Cloud Platforms (Expert Level)**
@@ -228,18 +227,18 @@ class Cypher:
 
 | Category | Models | Description |
 |----------|--------|-------------|
-| **首尾帧视频模型** | Wan2.1, Wan2.6, Wan2.7 | 输入首帧+尾帧生成中间视频 |
-| **参考图视频模型** | LTX-2.5, CogVideo, Sora | 单图参考生成视频 |
-| **文生视频** | Wan, Sora, CogVideo, LTX | Text-to-Video |
-| **图生视频** | Wan-I2V, CogVideo-I2V | Image-to-Video |
-| **音频驱动视频** | Wan-A2V, EMO, V-Express | Audio-to-Video (对口型) |
+| **首尾帧视频模型** | Wan2.1-FLF2V-14B | 输入首帧+尾帧生成中间视频 (阿里) |
+| **参考图视频模型** | LTX-Video, CogVideoX, Sora | 单图参考生成视频 |
+| **文生视频** | Wan2.1-T2V, Sora, CogVideoX, LTX-Video | Text-to-Video |
+| **图生视频** | Wan2.1-I2V, CogVideoX-I2V | Image-to-Video |
+| **音频驱动视频** | Wan2.1-A2V, EMO, V-Express | Audio-to-Video (对口型) |
 
 **Audio Processing**
 
 | Category | Models | Description |
 |----------|--------|-------------|
-| **ASR 语音识别** | Whisper, FunASR, Paraformer, **ElevenLabs** | 语音转文字 |
-| **TTS 语音合成** | CosyVoice, GPT-SoVITS, FishSpeech, **IndexTTS**, **Qwen-TTS**, **FishS2Pro** | 文字转语音 |
+| **ASR 语音识别** | Whisper, FunASR, Paraformer, SenseVoice | 语音转文字 |
+| **TTS 语音合成** | CosyVoice, GPT-SoVITS, FishSpeech, ChatTTS, MeloTTS | 文字转语音 |
 
 ---
 
