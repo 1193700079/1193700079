@@ -208,9 +208,10 @@ class Cypher:
 
 | Capability | Models & Tools |
 |-----------|----------------|
-| **Text-to-Image** | FLUX, Stable Diffusion 3, Midjourney, Ideogram |
-| **Image-to-Image** | SDXL, Stable Diffusion 1.5, ComfyUI |
+| **Text-to-Image** | z-image-turbo, Qwen-Image, FLUX, Stable Diffusion 3, Midjourney |
+| **Image-to-Image** | Qwen-Image-Edit, SDXL, Stable Diffusion 1.5, ComfyUI |
 | **Video Generation** | Wan2.1, CogVideoX, LTX-Video, Sora |
+| **Image Remix** | Remix (Adobe), Midjourney, Ideogram |
 | **Workflow Engine** | ![ComfyUI](https://img.shields.io/badge/ComfyUI-2D2D2D?style=flat-square) |
 
 **Cloud Platforms (Expert Level)**
@@ -237,8 +238,8 @@ class Cypher:
 
 | Category | Models | Description |
 |----------|--------|-------------|
-| **ASR 语音识别** | Whisper, FunASR, Paraformer, SenseVoice | 语音转文字 |
-| **TTS 语音合成** | CosyVoice, GPT-SoVITS, FishSpeech, ChatTTS, MeloTTS | 文字转语音 |
+| **ASR 语音识别** | Whisper, FunASR, Paraformer, SenseVoice, **ElevenLabs** | 语音转文字 |
+| **TTS 语音合成** | CosyVoice, GPT-SoVITS, FishSpeech, **IndexTTS**, **Qwen-TTS**, **FishS2Pro**, ChatTTS | 文字转语音 |
 
 ---
 
