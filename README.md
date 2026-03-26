@@ -287,15 +287,6 @@ class Cypher:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1193700079)
-[![Email](https://img.shields.io/badge/-Email-yrq991121%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrq991121@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
