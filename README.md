@@ -33,40 +33,26 @@
 
 **Optimization:** FlashAttention · SageAttention · PageAttention · Speculative Decoding
 
-**Models:** DeepSeek · Kimi · ChatGLM · Qwen · ChatGPT · Claude · Gemini
-
----
-
-## Multi-Modal AI
-
-| Type | Models |
-|------|--------|
-| Text-to-Video | Wan2.1-T2V, Wan2.2/2.5/2.6, Sora, CogVideoX, LTX-Video |
-| Image-to-Video | Wan2.1-I2V, CogVideoX-I2V |
-| First-Last Frame | Wan2.1-FLF2V-14B (阿里) |
-| Audio-to-Video | Wan2.1-A2V, EMO, V-Express |
-| ASR | Whisper, FunASR, Paraformer, SenseVoice |
-| TTS | CosyVoice, GPT-SoVITS, FishSpeech, ChatTTS |
-
----
-
-## RAG & Tools
-
-| Component | Stack |
-|-----------|-------|
-| Embedding | BGE, M3E, GTE |
-| Reranker | BGE-Reranker, Cohere |
-| Frameworks | RAGFlow, Dify, LangChain |
-| Vector DB | Milvus, Qdrant, Chroma, PGVector |
-| Image Gen | FLUX, SD3, Midjourney, ComfyUI |
-
-**Cloud:** 阿里云 · 阿里云百炼 · Azure · Microsoft 365
+<div align="center">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/kimi.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/chatglm.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/qwen.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="40" />
+</div>
 
 ---
 
 ## Robotics & Edge AI
 
 ROS2 · Raspberry Pi · NVIDIA Jetson · TensorRT · ONNX Runtime
+
+![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=flat-square)
+![阿里云百炼](https://img.shields.io/badge/阿里云百炼-FF9500?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
