@@ -81,11 +81,10 @@ class Cypher:
 
 ## LLM / VLM
 
-**Inference:** vLLM · SGLang · TensorRT-LLM · TGI
-
-**Training:** DeepSpeed · FSDP · LLaMA-Factory
-
-**Optimization:** FlashAttention · SageAttention · PageAttention · Speculative Decoding
+![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
+![SGLang](https://img.shields.io/badge/SGLang-00D4AA?style=for-the-badge)
+![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="40" />
@@ -101,12 +100,16 @@ class Cypher:
 
 ## Robotics & Edge AI
 
-ROS2 · Raspberry Pi · NVIDIA Jetson · TensorRT · ONNX Runtime
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=flat-square)
-![阿里云百炼](https://img.shields.io/badge/阿里云百炼-FF9500?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge)
+![阿里云百炼](https://img.shields.io/badge/阿里云百炼-FF9500?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
