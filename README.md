@@ -11,17 +11,71 @@
 
 ---
 
+## About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```python
+class Cypher:
+    def __init__(self):
+        self.name = "cypher"
+        self.role = "Full-Stack AI Engineer"
+        self.location = "🌏 China"
+        self.expertise = [
+            "LLM/VLM Inference Optimization",
+            "Robotics & ROS2",
+            "Edge AI & Embedded",
+            "Multi-Modal AI (I2V/V2V/A2V)"
+        ]
+    
+    def current_focus(self):
+        return "Building production-grade AI systems"
+    
+    def cloud_platforms(self):
+        return ["阿里云/Aliyun", "Azure", "AWS"]
+    
+    def motto(self):
+        return "Code is art, engineering is creation"
+```
+
+</td>
+<td width="45%">
+
+<img src="https://skillicons.dev/icons?i=rust,python,java,go,cpp,js,ts,react,vue,spring,tensorflow,pytorch,docker,kubernetes,linux,git,raspberrypi,ros&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Tech Stack
 
-**Languages:** Rust · Python · Java · Go · C++ · TypeScript
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend:** Spring Boot · FastAPI · Actix-web
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-**Frontend:** React · Vue · Ant Design
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Infrastructure:** Docker · Kubernetes · MySQL · PostgreSQL · Redis · MongoDB
-
-**Big Data:** Hadoop · Kafka · Spark · Flink
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
 
 ---
 
