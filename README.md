@@ -117,6 +117,6 @@ class Cypher:
 
 **"Code is art, engineering is creation."**
 
-![Visitor Count](https://hits.sh/github.com/1193700079/1193700079.svg?style=flat-square&color=00D4AA&label=Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=1193700079&style=flat-square&color=00D4AA&label=Visitors)
 
 </div>
