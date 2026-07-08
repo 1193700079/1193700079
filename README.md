@@ -111,22 +111,6 @@ class Cypher:
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=1193700079&show_icons=true&theme=transparent&hide_border=true&title_color=00D4AA&icon_color=0099CC&text_color=FFFFFF&bg_color=0D1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1193700079&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=FFFFFF&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1193700079&theme=transparent&hide_border=true&stroke=00D4AA&ring=0099CC&fire=FF6B6B" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0099CC,100:7B2D8E&height=100&section=footer&animation=fadeIn"/>
